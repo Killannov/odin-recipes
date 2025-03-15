@@ -1,1 +1,1 @@
-# odin-recipes
+# I used odin project to learn html, here i used the basic concept of html.
