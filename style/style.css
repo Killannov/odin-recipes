@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+body {
+    background-color: #dcdcdc;
+}
+
+#list-links, a {
+    text-decoration: none;
+    height: 200px;
+    width: 200px;
+    background-color: #d3d3d3;
+}
